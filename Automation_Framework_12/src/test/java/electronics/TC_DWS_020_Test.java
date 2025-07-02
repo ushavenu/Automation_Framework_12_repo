@@ -7,5 +7,6 @@ public class TC_DWS_020_Test {
 	@Test
 	public void clickOnElectronics() {
 		Reporter.log("Eelctronics page is displayed",true);
+		Reporter.log("Eelctronics page is displayed",true);
 	}
 }
